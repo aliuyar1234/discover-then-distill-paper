@@ -4,7 +4,7 @@
   <a href="https://github.com/aliuyar1234/discover-then-distill-paper/releases/download/v1.0.0/DiscoverThenDistill_ComputeMatched_v2_2026-02-13.pdf">
     <img src="https://img.shields.io/badge/Paper%20PDF-Download%20v1.0.0-0A66C2?logo=adobeacrobatreader&logoColor=white" alt="paper pdf download badge" />
   </a>
-  <a href="https://doi.org/10.5281/zenodo.18634021">
+  <a href="https://doi.org/10.5281/zenodo.18634022">
     <img src="https://zenodo.org/badge/1157276463.svg" alt="DOI" />
   </a>
   <img src="https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white" alt="python badge" />
