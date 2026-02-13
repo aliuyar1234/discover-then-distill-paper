@@ -1,7 +1,7 @@
 ﻿# Discover-Then-Distill: Compute-Matched Test-Time Adaptation and Self-Distillation
 
 <p>
-  <a href="https://github.com/aliuyar1234/discover-then-distill/releases/download/v1.0.0/DiscoverThenDistill_ComputeMatched_v2_2026-02-13.pdf">
+  <a href="https://github.com/aliuyar1234/discover-then-distill-paper/releases/download/v1.0.0/DiscoverThenDistill_ComputeMatched_v2_2026-02-13.pdf">
     <img src="https://img.shields.io/badge/Paper%20PDF-Download%20v1.0.0-0A66C2?logo=adobeacrobatreader&logoColor=white" alt="paper pdf download badge" />
   </a>
   <img src="https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white" alt="python badge" />
@@ -99,7 +99,7 @@ powershell -ExecutionPolicy Bypass -File paper/latex/build_release.ps1
 ## GitHub Release Workflow (GH CLI)
 
 ```bash
-gh repo create discover-then-distill --public --source . --push \
+gh repo create discover-then-distill-paper --public --source . --push \
   --description "Compute-matched study of test-time discovery and self-distillation consolidation for language models"
 ```
 
